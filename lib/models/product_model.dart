@@ -39,7 +39,7 @@ List<ProductModel> productModelFromResponseList(List<dynamic> data) {
   }
   return value;
 }
-
+/*
 List<ProductModel> products2 = [
   ProductModel(
       id: 8,
@@ -90,3 +90,4 @@ List<ProductModel> products2 = [
         "https://api.lorem.space/image/furniture?w=640&h=480&r=8898"
       ]),
 ];
+*/
